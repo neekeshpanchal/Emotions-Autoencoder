@@ -58,7 +58,8 @@ Non-trainable params: 0
 
 ## 📊 **Visualization and Results**
 
-![Visualization](https://github.com/neekeshpanchal/Emotions-Autoencoder/assets/80868396/046f0cc2-20f2-4091-9e67-8b00e6f90aad)
+![image](https://github.com/neekeshpanchal/Visual-Emotions-Encoder-and-Classifier/assets/80868396/0a2c683d-95f6-43db-ba4b-b8945dd0e821)
+
 
 Our model is designed to detect and visualize the latent features of emotions across video frames. The PCA visualization provides an intuitive understanding of the model's performance in distinguishing between different emotions.
 
