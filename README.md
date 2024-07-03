@@ -1,4 +1,4 @@
-# **Emotions-Autoencoder**
+# **Visual Emotions Encoder and Classifier**
 
 ![Emotions-Autoencoder](https://github.com/neekeshpanchal/Emotions-Autoencoder/assets/80868396/046f0cc2-20f2-4091-9e67-8b00e6f90aad)
 
@@ -8,7 +8,7 @@
 
 ## 🚀 **Project Overview**
 
-Emotions-Autoencoder applies cutting-edge machine learning techniques to predict human emotions in video frames. Leveraging the power of Keras, sklearn, matplotlib, and OpenCV, this project demonstrates a robust approach to real-time emotion detection.
+Visual Emotions Encoder and Classifier is used to predict human emotions in video frames leveraging Keras, sklearn, matplotlib, and OpenCV.
 
 ---
 
