@@ -1,7 +1,3 @@
-Here's a README.md template that stands out and makes your project look impressive:
-
----
-
 # **Emotions-Autoencoder**
 
 ![Emotions-Autoencoder](https://github.com/neekeshpanchal/Emotions-Autoencoder/assets/80868396/046f0cc2-20f2-4091-9e67-8b00e6f90aad)
@@ -137,6 +133,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![Footer Image](https://github.com/neekeshpanchal/Emotions-Autoencoder/assets/80868396/046f0cc2-20f2-4091-9e67-8b00e6f90aad)
 
----
-
-This template should make your project README look visually appealing, informative, and easy to navigate, ensuring it stands out and attracts attention on GitHub.
